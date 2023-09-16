@@ -1,2 +1,2 @@
 # LeetCode_Qs
-Linked Repo of LeetCode Questions - updated regularly
+Linked Repo for LeetCode - Automated Updation
