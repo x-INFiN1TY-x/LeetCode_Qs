@@ -1,27 +1,18 @@
 class Solution
 {
     private:
-        void helper(vector<int> &nums, unordered_map<int, int> &mp, vector< vector< int >> &ans, vector< int > &v)
+        void recurPermute(int index, vector<int> &nums, vector<vector< int>> &ans)
         {
-
-           	//base case
-
-            if (v.size() == nums.size())
+            if (index == nums.size())
             {
-                ans.push_back(v);
+                ans.push_back(nums);
                 return;
             }
-
-           	//recursive calls
-
-            for (int i = 0; i < nums.size(); i++)
+            for (int i = index; i < nums.size(); i++)
             {
-                if (mp.count(nums[i]) > 0) continue;
-                mp[nums[i]]++;
-                v.push_back(nums[i]);
-                helper(nums, mp, ans, v);
-                v.pop_back();
-                mp.erase(nums[i]);
+                swap(nums[index], nums[i]);
+                recurPermute(index + 1, nums, ans);
+                swap(nums[index], nums[i]);
             }
         }
     public:
@@ -29,10 +20,8 @@ class Solution
         {
             ios_base::sync_with_stdio(false);
             cin.tie(nullptr);
-            unordered_map<int, int> mp;
             vector<vector < int>> ans;
-            vector<int> v;
-            helper(nums, mp, ans, v);
+            recurPermute(0, nums, ans);
             return ans;
         }
 };
