@@ -1,18 +1,18 @@
 class Solution {
 public:
-    int removeDuplicates(vector<int> &nums) {
-        int temp = INT_MIN;
-        int* ptr = &nums[0];
-        int* ptr2 = &nums[0];
+    int removeDuplicates(vector<int>& nums) {
+        const int* ptr = nums.data();
+        int* ptr2 = const_cast<int*>(ptr);
+        int count = 0;
 
-        for (; ptr2 < &nums[nums.size()] && ptr < &nums[nums.size()]; ptr2++) {
-            if (*ptr2 != temp) {
-                temp = *ptr2;
-                swap(*ptr, *ptr2);
-                ptr++;
+        for (int i = 0; i < nums.size(); i++) {
+            if (*ptr != nums[i]) {
+                *(++ptr2) = nums[i];
+                ptr = ptr2;
+                count++;
             }
         }
 
-        return ptr - &nums[0];
+        return count + 1; // Adding 1 to account for the initial element.
     }
 };
