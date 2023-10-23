@@ -3,19 +3,19 @@ class Solution
     public:
         int removeElement(vector<int> &nums, int val)
         {
-            ios_base::sync_with_stdio(false);
-            cin.tie(nullptr);
-            vector<int> newNums;
-
-            for (int i = 0; i < nums.size(); i++)
+            int lt = 0, rt = nums.size() - 1;
+            while (lt <= rt)
             {
-                if (nums[i] != val)
+                if (nums[lt] == val)
                 {
-                    newNums.push_back(nums[i]);
+                    swap(nums[lt], nums[rt]);
+                    rt--;
+                }
+                else
+                {
+                    lt++;
                 }
             }
-
-            nums = newNums;
-            return nums.size();
+            return rt + 1;
         }
 };
