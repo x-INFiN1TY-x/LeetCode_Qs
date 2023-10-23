@@ -1,26 +1,22 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> dictionary;
+        int ptr = 0;
+        int ptr2 = 0;
+        int ss = ransomNote.size();
+        int ts = magazine.size();
+        // Sort the strings
+        sort(ransomNote.begin(), ransomNote.end());
+        sort(magazine.begin(), magazine.end());
 
-        // Iterate through the magazine and count characters
-        for (char c : magazine) {
-            if (dictionary.find(c) == dictionary.end()) {
-                dictionary[c] = 1;
-            } else {
-                dictionary[c]++;
+
+        while (ptr < ss && ptr2 < ts) {
+            if (ransomNote[ptr] == magazine[ptr2]) {
+                ptr++;
             }
+            ptr2++;
         }
-
-        // Iterate through the ransom note and check character counts
-        for (char c : ransomNote) {
-            if (dictionary.find(c) != dictionary.end() && dictionary[c] > 0) {
-                dictionary[c]--;
-            } else {
-                return false;
-            }
-        }
-
-        return true;
+        
+        return ptr == ss;
     }
 };
