@@ -3,19 +3,27 @@ class Solution
     public:
         int removeElement(vector<int> &nums, int val)
         {
-            int lt = 0, rt = nums.size() - 1;
-            while (lt <= rt)
+            if (nums.size())
             {
-                if (nums[lt] == val)
+                int *lt = &nums[0];
+                int *rt = &nums[nums.size() - 1];
+
+                while (lt <= rt)
                 {
-                    swap(nums[lt], nums[rt]);
-                    rt--;
+                    if (*lt == val)
+                    {
+                        swap(*lt, *rt);
+                        rt--;
+                    }
+                    else
+                    {
+                        lt++;
+                    }
                 }
-                else
-                {
-                    lt++;
-                }
+
+                return rt - &nums[0] + 1;
             }
-            return rt + 1;
+            else
+                return 0;
         }
 };
