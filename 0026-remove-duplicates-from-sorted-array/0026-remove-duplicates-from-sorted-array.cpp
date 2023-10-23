@@ -1,21 +1,18 @@
-class Solution
-{
-    public:
-        int removeDuplicates(vector<int> &nums)
-        {
-            ios_base::sync_with_stdio(false);
-            cin.tie(nullptr);
-            int left = 1;
+class Solution {
+public:
+    int removeDuplicates(vector<int> &nums) {
+        int temp = INT_MIN;
+        int* ptr = &nums[0];
+        int* ptr2 = &nums[0];
 
-            for (int right = 1; right < nums.size(); right++)
-            {
-                if (nums[right] != nums[right - 1])
-                {
-                    nums[left] = nums[right];
-                    left++;
-                }
+        for (; ptr2 < &nums[nums.size()] && ptr < &nums[nums.size()]; ptr2++) {
+            if (*ptr2 != temp) {
+                temp = *ptr2;
+                swap(*ptr, *ptr2);
+                ptr++;
             }
-
-            return left;
         }
+
+        return ptr - &nums[0];
+    }
 };
