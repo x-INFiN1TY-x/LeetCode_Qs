@@ -1,14 +1,20 @@
 class Solution {
 public:
     bool containsNearbyDuplicate(vector<int>& nums, int k) {
-        unordered_map<int,int> number_map;
-        for (int i = 0; i < nums.size(); ++i) {
-            int num = nums[i];
-            if (number_map.find(num) != number_map.end() && i - number_map[num] <= k) {
-                return true;
-            }else {
-                number_map[num] = i;
+        ios::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
+        int n = nums.size();
+        int i =0;
+        int j =0;
+        unordered_map<int ,int>mpp;
+        for(int i =0;i<n;i++)
+        {
+            if(mpp.find(nums[i])!=mpp.end())
+            {
+                if(i-mpp[nums[i]]<=k)   return true;
             }
+            mpp[nums[i]] = i;
         }
         return false;
     }
