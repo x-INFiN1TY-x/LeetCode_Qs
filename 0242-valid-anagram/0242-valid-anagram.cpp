@@ -1,22 +1,29 @@
-class Solution {
-public:
-    bool isAnagram(string s, string t) {
-        unordered_map <char,int>mp;
-      int ma=max(s.size(),t.size());
-      for(int i=0;i<ma;i++){
+class Solution
+{
+    public:
+        bool isAnagram(string s, string t)
+        {
+            int n = s.length();
+            int k = t.length();
+            if (n != k) return false;
 
-     mp[s[i]]++;
-     mp[t[i]]--;
-          
-      }
-      for(auto i:mp){
-
-          if(i.second!=0)return false;
-      }
-      return true;
-
-
-
-
-    }
+            int freq[256] = { 0 };
+            for (int i = 0; i < n; i++)
+            {
+                freq[s[i]]++;
+            }
+            for (int i = 0; i < k; i++)
+            {
+                freq[t[i]]--;
+            }
+            for (int i = 0; i < 256; i++)
+            {
+                if (freq[i] != 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+            return true;
+        }
 };
