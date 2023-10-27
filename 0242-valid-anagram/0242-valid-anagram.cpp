@@ -7,23 +7,20 @@ class Solution
             int k = t.length();
             if (n != k) return false;
 
-            int freq[256] = { 0 };
+            int freq[27] = { 0 };
             for (int i = 0; i < n; i++)
             {
-                freq[s[i]]++;
+                freq[s[i] - 97]++;
+                freq[t[i] - 97]--;
             }
-            for (int i = 0; i < k; i++)
-            {
-                freq[t[i]]--;
-            }
-            for (int i = 0; i < 256; i++)
+
+            for (int i = 0; i < 27; i++)
             {
                 if (freq[i] != 0)
                 {
                     return false;
                 }
             }
-            return true;
             return true;
         }
 };
