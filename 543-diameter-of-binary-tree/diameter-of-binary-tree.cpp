@@ -1,25 +1,29 @@
+auto fastio=[]()  {
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
 class Solution {
 public:
-    int diameterOfBinaryTree(TreeNode* root) {
-        // Define a helper function to calculate the diameter recursively
-        int res = 0;
-        diameter(root, res);
-        return res;
+    pair<int,int> solve(TreeNode* root){
+        if(root==NULL){
+            return {0,0};
+        }
+        pair<int,int>l= solve(root->left);
+        pair<int,int>r= solve(root->right);
+        pair<int,int> ans;
+        ans.first=max(l.first,r.first)+1;
+
+        ans.second= max(max(l.second,r.second),l.first+r.first+1);
+
+        return ans;
+
     }
-
-private:
-    int diameter(TreeNode* curr, int& res){
-        // Base case: if the current node is null, return 0
-        if (!curr) return 0;
+    int diameterOfBinaryTree(TreeNode* root) {
+        pair<int,int> p;
+        p=solve(root);
+        return p.second-1;
         
-        // Recursively calculate the diameter of left and right subtrees
-        int left = diameter(curr->left, res);
-        int right = diameter(curr->right, res);
-
-        // Update the maximum diameter encountered so far
-        res = std::max(res, left + right);
-        
-        // Return the depth of the current node
-        return std::max(left, right) + 1;
     }
 };
