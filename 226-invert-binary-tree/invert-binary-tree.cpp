@@ -2,12 +2,19 @@ class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
         // Base Case
-        if (root == NULL)
+        if (!root)
             return NULL;
-        swap(root->left, root->right);
-        invertTree(root->left);  // Call the left substree
-        invertTree(root->right); // Call the right substree
-
-        return root; // Return the root
+        stack<TreeNode*> stk;
+        stk.push(root);
+        while (!stk.empty()) {
+            TreeNode* t = stk.top();
+            stk.pop();
+            if (t) {
+                swap(t->left, t->right);
+                stk.push(t->left);
+                stk.push(t->right);
+            }
+        }
+        return root;
     }
 };
