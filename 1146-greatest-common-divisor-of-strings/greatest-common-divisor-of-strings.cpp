@@ -3,24 +3,21 @@
 class Solution {
 public:
     std::string gcdOfStrings(std::string str1, std::string str2) {
-        if (!(str1.length() && str2.length()))
+        if (str1 + str2 != str2 + str1)
             return "";
-        int gc = gcd(str1.length(), str2.length());
-        if (gc) {
-            std::string t1(str1.begin(), str1.begin() + gc);
-            std::string t2(str2.begin(), str2.begin() + gc);
-            if (str2.substr(0, gc) == str1.substr(0, gc)) {
-                for (int i = 1; i < str1.length() / gc; ++i)
-                    t1 += str1.substr(0, gc);
-                for (int i = 1; i < str2.length() / gc; ++i)
-                    t2 += str2.substr(0, gc);
-                if (t1 == str1 && t2 == str2)
-                    return str2.substr(0, gc);
-                else
-                    return "";
-            } else
-                return "";
-        } else
-            return "";
+        
+        int len1 = str1.length();
+        int len2 = str2.length();
+        int gcd = 1;
+        
+        // Calculating gcd
+        while (len2 != 0) {
+            int temp = len2;
+            len2 = len1 % len2;
+            len1 = temp;
+        }
+        gcd = len1;
+        
+        return str1.substr(0, gcd);
     }
 };
