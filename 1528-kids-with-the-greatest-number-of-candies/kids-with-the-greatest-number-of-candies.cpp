@@ -1,12 +1,18 @@
+auto fastio=[]()  {
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
+
 class Solution {
 public:
     vector<bool> kidsWithCandies(vector<int>& candies, int e) {
-        vector<bool> t (candies.size(),false);
+        vector<bool> t (candies.size());
         int m=*max_element(candies.begin(),candies.end());
         for(int i=0;i<candies.size();i++)
         {
-            if(candies[i]+e>=m)
-            t[i]=true;
+            t[i]=(candies[i]+e>=m);
         }
         return t;
     }
