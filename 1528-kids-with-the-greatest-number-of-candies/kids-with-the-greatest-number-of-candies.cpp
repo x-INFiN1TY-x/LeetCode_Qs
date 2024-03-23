@@ -7,13 +7,13 @@ auto fastio=[]()  {
 
 class Solution {
 public:
-    vector<bool> kidsWithCandies(vector<int>& candies, int e) {
-        vector<bool> t (candies.size());
-        int m=*max_element(candies.begin(),candies.end());
-        for(int i=0;i<candies.size();i++)
-        {
-            t[i]=(candies[i]+e>=m);
-        }
-        return t;
+    vector<bool> kidsWithCandies(vector<int>& candies, int extraCandies) {
+         int max_candies = *std::max_element(candies.begin(), candies.end());
+    std::vector<bool> result;
+    result.reserve(candies.size());
+    for (int candy : candies) {
+        result.push_back(candy + extraCandies >= max_candies);
+    }
+    return result;
     }
 };
