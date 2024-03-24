@@ -1,6 +1,9 @@
-#include <vector>
-#include <algorithm> // for max_element
-#include <climits> // for INT_MIN
+auto fastio=[]()  {
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
 
 class Solution {
 public:
