@@ -1,5 +1,10 @@
-#include <vector>
-#include <algorithm>
+auto fastio =[]()
+{
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
 
 class Solution
 {
@@ -19,7 +24,8 @@ class Solution
             {
                 if (nums[i] < 2 *nums[i - 1])
                 {
-                	return nums[i];
+                    nums.resize(0);
+                    return nums[i];
                 }
             }
             return -1;
