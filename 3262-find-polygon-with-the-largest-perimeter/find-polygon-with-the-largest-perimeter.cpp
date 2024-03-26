@@ -1,33 +1,15 @@
-auto fastio =[]()
-{
-    std::ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return nullptr;
-}();
-
-class Solution
-{
-    public:
-        long long largestPerimeter(vector<int> &num)
-        {
-            int n = num.size();
-            if (n < 3) return -1;
-
-            sort(num.begin(), num.end());
-
-            vector < long long > nums(num.begin(), num.end());
-            num.resize(0);
-            partial_sum(nums.begin(), nums.end(), nums.begin());
-
-            for (int i = n - 1; i > 1; i--)
-            {
-                if (nums[i] < 2 *nums[i - 1])
-                {
-                    nums.resize(0);
-                    return nums[i];
-                }
-            }
-            return -1;
+class Solution {
+public:
+    using LL = long long;
+    using VI = vector<int>;
+    LL largestPerimeter(VI& A) {
+        sort(A.rbegin(), A.rend());
+        auto t = accumulate(A.begin(), A.end(), 0LL, [](auto t, auto x) { return t + x; });
+        for (auto hi: A) {
+            t -= hi;
+            if (hi < t)
+                return hi + t;
         }
+        return -1;
+    }
 };
