@@ -1,17 +1,17 @@
 class Solution {
 public:
-    static bool threeConsecutiveOdds(vector<int>& arr) {
-        int len=0;
-        for(int x: arr){
-            len=(x&1)?len+1:0;
-            if (len==3) return 1;
+    bool threeConsecutiveOdds(vector<int> &arr) {
+        for (int i = 0; i + 2 < arr.size(); i++) {
+            // Check if arr[i], arr[i+1], and arr[i+2] are odd
+            if (arr[i] & 1 && arr[i + 1] & 1 && arr[i + 2] & 1)
+                return true;
         }
-        return 0;
+        return false;
     }
 };
 
-
-auto init = []() {
+auto init =[]()
+{
     ios::sync_with_stdio(0);
     cin.tie(0);
     cout.tie(0);
