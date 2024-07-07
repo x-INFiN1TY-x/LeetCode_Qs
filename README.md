@@ -28,4 +28,12 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1646-kth-missing-positive-number](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1646-kth-missing-positive-number) |
+## String
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
