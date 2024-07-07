@@ -42,9 +42,14 @@ Linked Repo for LeetCode - Automated Updation
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
