@@ -32,8 +32,17 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
