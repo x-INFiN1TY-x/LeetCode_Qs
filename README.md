@@ -63,9 +63,14 @@ Linked Repo for LeetCode - Automated Updation
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0908-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
