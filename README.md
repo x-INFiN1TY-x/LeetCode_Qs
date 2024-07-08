@@ -48,6 +48,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -79,4 +80,12 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
