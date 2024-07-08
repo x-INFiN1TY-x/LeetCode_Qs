@@ -7,6 +7,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
@@ -17,6 +18,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1646-kth-missing-positive-number) |
 ## String
@@ -52,4 +55,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
