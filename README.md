@@ -60,4 +60,12 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
