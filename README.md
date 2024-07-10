@@ -6,6 +6,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
@@ -95,5 +96,6 @@ Linked Repo for LeetCode - Automated Updation
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
