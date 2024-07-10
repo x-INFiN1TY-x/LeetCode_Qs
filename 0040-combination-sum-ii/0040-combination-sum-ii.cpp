@@ -1,40 +1,42 @@
 #include <vector>
+#include <algorithm>
+#include <iostream>
 using namespace std;
+
+auto fastio = []() {
+    std::ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return nullptr;
+}();
 
 class Solution {
 public:
-    void com(vector<vector<int>>& res, const vector<int>& c, int t, int sum, int i, vector<int>& arr) {
-        // Base case
+    void com(vector<vector<int>>& res, const vector<int>& c, const int t, int sum, int i, vector<int>& arr) {
         if (sum == t) {
             res.push_back(arr);
             return;
         }
+        if (i >= c.size() || sum > t) {
+            return;
+        }
         
-        // Recursive case
         for (int j = i; j < c.size(); ++j) {
-            // Avoid duplicates
-            if (j > i && c[j] == c[j - 1])
-                continue;
-            
-            // Check if adding c[j] exceeds the target
-            if (sum + c[j] > t)
-                break;
-            
+            if (j > i && c[j] == c[j - 1]) continue; // Skip duplicates
+            if (sum + c[j] > t) break; // Early stopping
+
             arr.push_back(c[j]);
-            com(res, c, t, sum + c[j], j + 1, arr); // j + 1 to avoid reusing the same element
-            arr.pop_back();
+            com(res, c, t, sum + c[j], j + 1, arr);
+            arr.pop_back(); // Backtrack
         }
     }
 
     vector<vector<int>> combinationSum2(vector<int>& c, int t) {
+        sort(c.begin(), c.end()); // Sort the input array
         vector<vector<int>> res;
         vector<int> arr;
-        
-        // Sort the input array to handle duplicates properly
-        sort(c.begin(), c.end());
-        
         com(res, c, t, 0, 0, arr);
-        
+
         return res;
     }
 };
