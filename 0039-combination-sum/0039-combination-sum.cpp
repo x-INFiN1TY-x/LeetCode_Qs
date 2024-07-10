@@ -1,23 +1,32 @@
 class Solution {
 public:
-    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
-		// dp vector to store all possible combinations of the target sum
-        vector <vector <vector <int>>> dp(target+1);
-        dp[0]={{}};
-        for(int &i:nums)
+    void generate(int index, vector<int>& candidates, vector<int>& ds, int& target, vector<vector<int>>& ans)
+    {
+        if(target < 0)
+            return;
+        
+        if(index == candidates.size())
         {
-		// Iterating through all the elements from array nums aka candidates
-            for(int j=i;j<=target;j++)
-            {
-			// Finding all possible ways to achieve sum j from element i
-                for(auto v:dp[j-i])
-                {
-                    v.push_back(i);
-                    dp[j].push_back(v);
-                }
-            }
+            if(target == 0)
+                ans.push_back(ds);
+            
+            return;
         }
-		// Finally, returning our ans \U0001f643
-        return dp[target];
+
+        // pick the current index
+        ds.push_back(candidates[index]);
+        target -= candidates[index];
+        generate(index, candidates, ds, target, ans);
+        // not pick the current index
+        ds.pop_back();
+        target += candidates[index];
+        generate(index + 1, candidates, ds, target, ans);
+    }
+
+    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<vector<int>> ans;
+        vector<int> ds;
+        generate(0, candidates, ds, target, ans);
+        return ans;
     }
 };
