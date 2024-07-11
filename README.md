@@ -54,12 +54,14 @@ Linked Repo for LeetCode - Automated Updation
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 ## Math
 |  |
