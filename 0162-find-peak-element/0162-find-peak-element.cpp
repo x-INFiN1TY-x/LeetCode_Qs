@@ -1,26 +1,52 @@
 class Solution {
 public:
-    int findPeakElement(vector<int>& v) {
-        int n=v.size()-1;
+    int findPeakElement(vector<int>& nums) {
+        int n = nums.size();
+        
+        if (n == 1) return 0; 
 
-        if(v.size()==1) return 0;
-        if(v[0]>v[1]) return 0;
-        if(v[n]>v[n-1]) return n;
-
-        int low=1, high=v.size()-2, ans=0;
-
-        while(low<=high){
-            int mid=(low+high)/2;
-            if(v[mid-1]<v[mid] && v[mid]>v[mid+1]){
-                ans=mid;
-                break;
-            }
-            if(v[mid-1]>v[mid]){
-                high=mid-1;
-            }else{
-                low=mid+1;
+        for (int i = 0; i < n; ++i) {
+            if (i == 0) {
+                if (nums[i] > nums[i + 1]) {
+                    return i;
+                }
+            } else if (i == n - 1) {
+                if (nums[i] > nums[i - 1]) {
+                    return i;
+                }
+            } else {
+                if (nums[i] > nums[i - 1] && nums[i] > nums[i + 1]) {
+                    return i;
+                }
             }
         }
-        return ans;
+        
+        return -1; 
     }
 };
+int init = [] {
+    ofstream s("user.out");
+    string in;
+    int x, y, z, i;
+    while(cin.get(), cin >> y){
+        x = 1 << 31;
+        i = 0;
+        while(cin.get() != ']'){
+            cin >> z;
+            if(x < y && y > z){
+                while(cin.get() != ']')
+                    cin >> z;
+                break;
+            }
+            i++;
+            x = y;
+            y = z;
+        }
+
+        cin.get();
+        s << i << '\n';
+    }
+    s.flush();
+    exit(0);
+    return 0;
+}();
