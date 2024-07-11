@@ -20,23 +20,26 @@ public:
             return head; // No rotation needed after reducing k
         }
         
-        // Find the position to break the list
-        temp = head;
-        for (int i = 0; i < c - k - 1; ++i) {
-            temp = temp->next;
+        // Find the new head and new tail positions
+        ListNode* fast = head;
+        ListNode* slow = head;
+        
+        // Move fast pointer to the kth node from the beginning
+        for (int i = 0; i < k; ++i) {
+            fast = fast->next;
+        }
+        
+        // Move both pointers until fast reaches the end
+        while (fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next;
         }
         
         // Adjust pointers to rotate the list
-        ListNode* new_head = temp->next;
-        temp->next = nullptr; // Cut off the list to form new tail
+        fast->next = head; // Connect original tail to original head to form circular
+        head = slow->next; // New head is the node after slow
+        slow->next = nullptr; // Cut off the list to form new tail
         
-        // Connect the original tail to the original head to form circular
-        temp = new_head;
-        while (temp->next != nullptr) {
-            temp = temp->next;
-        }
-        temp->next = head;
-        
-        return new_head;
+        return head;
     }
 };
