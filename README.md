@@ -10,6 +10,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0485-max-consecutive-ones) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -26,11 +27,13 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -106,4 +109,12 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
