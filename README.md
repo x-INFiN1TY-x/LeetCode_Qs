@@ -18,6 +18,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
+| [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
+| [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +83,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
+| [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
 | ------- |
