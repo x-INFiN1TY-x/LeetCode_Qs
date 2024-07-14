@@ -26,6 +26,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
@@ -55,6 +57,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
+| [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
@@ -63,6 +66,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
