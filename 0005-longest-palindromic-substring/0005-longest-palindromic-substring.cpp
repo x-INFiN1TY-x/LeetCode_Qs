@@ -1,32 +1,39 @@
 class Solution {
+private: 
+    bool solve(vector<vector<bool>> &dp, int i, int j, string &s){
+        if(i == j){
+            return dp[i][j] = true;
+        }
+        if(j-i == 1){
+            if(s[i] == s[j]){
+                return dp[i][j] = true;
+            }
+            else{
+                return dp[i][j] = false;
+            }
+        }
+        if(s[i] == s[j] && dp[i+1][j-1] == true){
+            return dp[i][j] = true;
+        } else {
+            return dp[i][j] = false;
+        }
+    }
 public:
-    std::string longestPalindrome(std::string s) {
-        if (s.length() <= 1) {
-            return s;
-        }
-
-        auto expand_from_center = [&](int left, int right) {
-            while (left >= 0 && right < s.length() && s[left] == s[right]) {
-                left--;
-                right++;
-            }
-            return s.substr(left + 1, right - left - 1);
-        };
-
-        std::string max_str = s.substr(0, 1);
-
-        for (int i = 0; i < s.length() - 1; i++) {
-            std::string odd = expand_from_center(i, i);
-            std::string even = expand_from_center(i, i + 1);
-
-            if (odd.length() > max_str.length()) {
-                max_str = odd;
-            }
-            if (even.length() > max_str.length()) {
-                max_str = even;
+    string longestPalindrome(string s) {
+        int n = s.size();
+        int startIndex = 0; int maxlen = 0;
+        vector<vector<bool>> dp(n, vector<bool>(n, false));
+        for(int g=0; g<n; g++){
+            for(int i=0, j=g; j<n; i++, j++){
+                solve(dp, i, j, s);
+                if(dp[i][j] == true){
+                    if(j-i+1 > maxlen){
+                        startIndex = i;
+                        maxlen = j-i+1;
+                    }
+                }
             }
         }
-
-        return max_str;
+        return s.substr(startIndex, maxlen);
     }
 };
