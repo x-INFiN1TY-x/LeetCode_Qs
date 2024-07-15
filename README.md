@@ -9,6 +9,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
+| [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
@@ -123,6 +124,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
