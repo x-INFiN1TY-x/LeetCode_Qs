@@ -17,6 +17,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0485-max-consecutive-ones) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
@@ -100,6 +101,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Linked List
 |  |
 | ------- |
