@@ -1,25 +1,26 @@
 class Solution {
 public:
-    vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
-        int numRows = rowSum.size();
-        int numCols = colSum.size();
-        vector<vector<int>> result(numRows, vector<int>(numCols, 0));
-
-        int i = 0, j = 0;
-
-        while (i < numRows && j < numCols) {
-            int val = min(rowSum[i], colSum[j]);
-            result[i][j] = val;
-            rowSum[i] -= val;
-            colSum[j] -= val;
-
-            if (rowSum[i] == 0) {
-                i++;
-            }
-            if (colSum[j] == 0) {
-                j++;
-            }
+    static vector<vector<int>> restoreMatrix(vector<int>& rowSum, vector<int>& colSum) {
+        const int r=rowSum.size(), c=colSum.size();
+        vector<vector<int>> arr(r, vector<int>(c, 0));
+        for (int i=0, j=0; i<r && j<c ; i+=(rowSum[i]==0), j+=(colSum[j]==0)){
+            int x=min(rowSum[i], colSum[j]);
+            arr[i][j]=x;
+            rowSum[i]-=x;
+            colSum[j]-=x;
         }
-        return result;
+        return arr;
     }
 };
+
+
+
+
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
