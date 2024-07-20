@@ -1,9 +1,6 @@
 class Solution {
 public:
-    bool divisorGame(int n) {
-        if(n%2)
-        return false;
-        else
-        return true;
+    bool divisorGame(int N) {
+        return N%2==0;
     }
 };
