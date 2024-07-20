@@ -86,6 +86,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
+| [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -134,6 +135,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
+| [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -171,4 +173,12 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
