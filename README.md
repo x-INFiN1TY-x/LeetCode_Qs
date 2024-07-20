@@ -6,6 +6,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
@@ -27,6 +28,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
@@ -99,6 +101,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -139,6 +142,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
