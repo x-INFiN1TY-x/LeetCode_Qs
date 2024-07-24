@@ -2,11 +2,18 @@ class Solution {
 public:
     vector<int> sortJumbled(vector<int>& mapping, vector<int>& nums) {
         auto translate_integer = [&](int num) -> int {
-            string digits = to_string(num);
-            for (char& digit : digits) {
-                digit = '0' + mapping[digit - '0'];
+            if (num == 0) {
+                return mapping[0];
             }
-            return stoi(digits);
+            int res = 0;
+            int cur_mult = 1;
+            while (num > 0) {
+                int digit = num % 10;
+                num /= 10;
+                res += mapping[digit] * cur_mult;
+                cur_mult *= 10;
+            }
+            return res;
         };
 
         unordered_map<int, int> number_mapping;
