@@ -144,6 +144,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Combinatorics
 |  |
 | ------- |
@@ -188,4 +189,12 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
+## Graph
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
