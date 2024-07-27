@@ -1,29 +1,34 @@
-class Solution {
-public:
-    int minSteps(int n) {
-        if (n == 1)
-            return 0;
-        
-        int min = 100000;
-        int minQuotient= 1;
-        int currentValue = n;
-        int result = 0;
-        
-        while (currentValue != 1) {
-            for (int j = 1; j <= n; ++j) {
-                if (currentValue % j == 0) {
-                    auto tmp = currentValue / j;
-                    if (tmp != 1) {
-                        min = std::min(min, tmp);
-                        minQuotient = j;
-                    }
-                }
-            }
-            result += min;
-            currentValue = minQuotient;
-            min = 1000;
-        }
+#define vi vector<int>
+#define vvi vector<vi>
+#define INF 1'000'000
 
-        return result;
-    }
+class Solution 
+{
+    public :
+         
+        int count( int i, int n, int l, vvi& dp )
+        {
+            if( i > n )
+                return INF ;
+				
+            else if(!(n-i))
+                return 0 ;
+				
+            else if( dp[i][l] )
+                return dp[i][l] ;
+				
+            else
+            {
+                int copy  = 2 + count(i+i,n,i,dp); 
+                int paste = 1 + count(i+l,n,l,dp);
+				
+                return dp[i][l] = min( copy, paste );
+            }
+        }
+    
+        int minSteps( int n ) 
+        {            
+            vvi dp(n+1,vi(n+1,0));
+            return ( n > 1 ? 1 + count(1,n,1,dp) : 0 );
+        }
 };
