@@ -1,56 +1,71 @@
+inline const auto optimize = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
+}();
+
 class Solution {
+    static constexpr int howLong(int needed, int time, int change) {
+        int ans = 0;
+        for (int i = 0; i < needed; i++) {
+            int turn = ans / change;
+            if ((turn % 2) != 0)
+                ans += change - (ans % change);
+
+            ans += time;
+        }
+        return ans;
+    }
 public:
-    int secondMinimum(int n, vector<vector<int>>& edges, int time, int change) {
-        
-        vector<priority_queue<int>> dis (n);
-        for (int i=0;i<n;i++){
-            dis[i].push(1e8);
+    static int secondMinimum(int N, const vector<vector<int>>& edges, int time,
+                             int change) {
+        std::vector<std::vector<int>> G(N);
+        for (const auto& edge : edges) {
+            G[edge[0] - 1].push_back(edge[1] - 1);
+            G[edge[1] - 1].push_back(edge[0] - 1);
         }
-        //maxheap and node 
-        // we will keep two dist of each node.
-        
-        vector<int> adj[n];
-        for (auto it:edges){
-            adj[it[0]-1].push_back(it[1]-1);
-            adj[it[1]-1].push_back(it[0]-1);
-        }
-        
-        priority_queue <pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> pq;
-        pq.push({0,0}); // time=0, node=0
-        dis[0].pop();
-        dis[0].push(0); 
-        
-        while (pq.empty()==false){
-            int dist=pq.top().first;
-            int node=pq.top().second;
-            pq.pop();
-            int k=dist/change;
-            if (k%2==1) {
-                dist=dist+(change-dist%change);
-            }
-            
-            for (auto adjnode:adj[node]){
-                int adjdis=dist+time;
-                
-                if (dis[adjnode].top()==1e8){
-                    dis[adjnode].pop();
-                    dis[adjnode].push(adjdis);
-                    pq.push({adjdis,adjnode});
-                }
-                else if (dis[adjnode].size()<2 && dis[adjnode].top()!= adjdis){
-                    dis[adjnode].push(adjdis);
-                    pq.push({adjdis,adjnode});
-                }
-                else {
-                    if (dis[adjnode].top() > adjdis){
-                        dis[adjnode].pop();
-                        dis[adjnode].push(adjdis);
-                        pq.push({adjdis,adjnode});
+
+        std::deque<int> Q;
+        std::vector<char> seen(N * 2);
+        Q.push_front(0);
+        seen[0] = true;
+
+        int maxLength = std::numeric_limits<int>::max();
+
+        int wave = 0;
+        bool odd = true;
+        while (!Q.empty()) {
+            const int thisRound = Q.size();
+            odd = !odd;
+            for (int i = 0; i < thisRound; i++) {
+                auto pos = Q.front();
+                Q.pop_front();
+
+                if (pos == N - 1) {
+                    if (maxLength == std::numeric_limits<int>::max()) {
+                        maxLength = wave + 2;
+                        continue;
+                    } else {
+                        maxLength = std::min(maxLength, wave);
+                        return howLong(maxLength, time, change);
                     }
                 }
+
+                for (const auto next : G[pos]) {
+                    if (seen[next * 2 + !odd])
+                        continue;
+
+                    seen[next * 2 + !odd] = true;
+                    Q.push_back(next);
+                }
             }
+            wave++;
+
+            if (maxLength < wave)
+                break;
         }
-        
-        return dis[n-1].top();
+
+        return howLong(maxLength, time, change);
     }
 };
