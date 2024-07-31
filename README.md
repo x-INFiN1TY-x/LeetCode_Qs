@@ -19,6 +19,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0485-max-consecutive-ones](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
+| [1196-filling-bookcase-shelves](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -147,6 +148,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
+| [1196-filling-bookcase-shelves](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1196-filling-bookcase-shelves) |
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
