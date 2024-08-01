@@ -27,6 +27,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Hash Table
@@ -79,6 +80,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+| [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Stack
 |  |
