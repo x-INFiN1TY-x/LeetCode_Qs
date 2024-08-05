@@ -1,24 +1,46 @@
-class Solution {
-public:
-    static string kthDistinct(vector<string>& arr, int k) {
-        const int n=arr.size();
-        vector<string> sorted(arr.begin(), arr.end());
-        sort(sorted.begin(), sorted.end());
+// struct Trie for N alphabets
+const int N=26;
+struct Trie {
+    Trie* next[N];
+    int count=0;
 
-        for(string& s: arr){
-            int i=lower_bound(sorted.begin(), sorted.end(), s)-sorted.begin();
-            if (i==n-1 ||sorted[i]!=sorted[i+1]) k--;
-            if (k==0) return s;
+    Trie() {
+    //    cout<<"Create a trie object!\n";
+        memset(next, 0, sizeof(next));
+    }
+
+    void insert(string& s) {
+        Trie* Node=this;
+        for(char c: s){
+            int i=c-'a';
+            if (Node->next[i]==NULL) Node->next[i]=new Trie();
+            Node=Node->next[i];
         }
-        return "";  
+        Node->count++;
+    }
+    bool findcnt1(string& s) {
+        Trie* Node=this;
+        for(char c: s){
+            int i=c-'a';
+            if (Node->next[i]==NULL) return 0;
+            Node=Node->next[i];
+        }
+        return Node->count==1;
     }
 };
 
 
+class Solution {
+public:
+    static string kthDistinct(vector<string>& arr, int k) {
+        Trie trie;
+        for(string& s: arr)
+            trie.insert(s);
 
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
+        for(string& s: arr){
+            if (trie.findcnt1(s)==1) k--;
+            if (k==0)  return s;
+        }
+        return "";  
+    }
+};
