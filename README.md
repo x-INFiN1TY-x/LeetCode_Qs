@@ -241,6 +241,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0197-rising-temperature](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0585-investments-in-2016) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0620-not-boring-movies](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0626-exchange-seats) |
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
