@@ -239,6 +239,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0577-employee-bonus](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0577-employee-bonus) |
 | [0620-not-boring-movies](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0620-not-boring-movies) |
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
+| [1338-queries-quality-and-percentage](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1827-invalid-tweets) |
