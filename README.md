@@ -244,6 +244,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
 | [1338-queries-quality-and-percentage](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1415-students-and-examinations) |
+| [1452-restaurant-growth](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1452-restaurant-growth) |
 | [1480-movie-rating](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1625-group-sold-products-by-the-date) |
 | [1801-average-time-of-process-per-machine](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1801-average-time-of-process-per-machine) |
