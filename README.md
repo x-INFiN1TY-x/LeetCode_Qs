@@ -237,6 +237,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0197-rising-temperature](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0197-rising-temperature) |
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
+| [1801-average-time-of-process-per-machine](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
