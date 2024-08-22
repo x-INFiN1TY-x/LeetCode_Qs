@@ -228,4 +228,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
