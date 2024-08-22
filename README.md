@@ -242,6 +242,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1338-queries-quality-and-percentage](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1942-primary-department-for-each-employee) |
