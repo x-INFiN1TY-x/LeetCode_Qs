@@ -239,6 +239,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0180-consecutive-numbers](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
