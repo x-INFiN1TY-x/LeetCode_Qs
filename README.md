@@ -245,6 +245,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0620-not-boring-movies](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0626-exchange-seats) |
 | [1155-product-sales-analysis-iii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1155-product-sales-analysis-iii) |
+| [1182-game-play-analysis-iv](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1292-immediate-food-delivery-ii) |
