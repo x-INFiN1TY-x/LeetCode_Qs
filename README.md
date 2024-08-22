@@ -232,4 +232,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0476-number-complement) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
