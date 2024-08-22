@@ -247,6 +247,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1155-product-sales-analysis-iii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1155-product-sales-analysis-iii) |
 | [1258-article-views-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1278-product-price-at-a-given-date) |
+| [1292-immediate-food-delivery-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1292-immediate-food-delivery-ii) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1338-queries-quality-and-percentage) |
 | [1415-students-and-examinations](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1415-students-and-examinations) |
