@@ -1,49 +1,31 @@
-auto fastio=[]()  {
-    std::ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-    cout.tie(nullptr);
-    return nullptr;
-}();
+#include <vector>
+using namespace std;
 
-class Solution
-{
-    public:
-        void soln(vector<int> adj[], int node, vector<bool> &vis)
-        {
-            vis[node] = 1;
-            for (auto i: adj[node])
-            {
-                if (!vis[i])
-                {
-                    soln(adj, i, vis);
-                }
+class Solution {
+public:
+    void dfs(vector<vector<int>> &isc, int i, vector<bool> &visited) {
+        visited[i] = true; // Mark the current node as visited
+        for (int j = 0; j < isc.size(); j++) { // Iterate through all nodes
+            // Check if there is a connection and the node hasn't been visited yet
+            if (isc[i][j] == 1 && !visited[j]) {
+                dfs(isc, j, visited); // Perform DFS on the connected node
             }
         }
-    int findCircleNum(vector<vector < int>> &isConnected)
-    {
-        int n = isConnected.size();
-        vector<int> adj[n];
-        for (int i = 0; i < n; i++)
-        {
-            for (int j = 0; j < n; j++)
-            {
-                if (isConnected[i][j])
-                {
-                    adj[i].push_back(j);
-                    adj[j].push_back(i);
-                }
+    }
+
+    int findCircleNum(vector<vector<int>> &isc) {
+        int n = isc.size(); // Number of nodes
+        int c = 0; // Number of connected components (circles)
+        vector<bool> visited(n, false); // Visited nodes tracker
+
+        for (int i = 0; i < n; i++) {
+            if (!visited[i]) { // If the node hasn't been visited
+                c++; // We've found a new connected component
+                dfs(isc, i, visited); // Perform DFS from this node
             }
         }
-        vector<bool> vis(n, 0);
-        int ans = 0;
-        for (int i = 0; i < n; i++)
-        {
-            if (!vis[i])
-            {
-                soln(adj, i, vis);
-                ans++;
-            }
-        }
-        return ans;
+
+        return c; // Return the number of connected components found
     }
 };
+
