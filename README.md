@@ -205,6 +205,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
+| [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Brainteaser
@@ -218,6 +219,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Graph
 |  |
 | ------- |
+| [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -274,4 +276,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
