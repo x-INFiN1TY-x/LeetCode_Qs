@@ -48,6 +48,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
@@ -132,6 +133,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
@@ -184,6 +186,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -280,4 +283,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
