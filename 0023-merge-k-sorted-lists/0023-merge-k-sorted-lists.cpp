@@ -1,33 +1,42 @@
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if(lists.size()==0) return NULL;
-        priority_queue<int,vector<int>,greater<int>> pq;
+        if (lists.empty()) {
+            return nullptr;
+        }
+        return mergeKListsHelper(lists, 0, lists.size() - 1);
+    }
+    
+    ListNode* mergeKListsHelper(vector<ListNode*>& lists, int start, int end) {
+        if (start == end) {
+            return lists[start];
+        }
+        if (start + 1 == end) {
+            return merge(lists[start], lists[end]);
+        }
+        int mid = start + (end - start) / 2;
+        ListNode* left = mergeKListsHelper(lists, start, mid);
+        ListNode* right = mergeKListsHelper(lists, mid + 1, end);
+        return merge(left, right);
+    }
+    
+    ListNode* merge(ListNode* l1, ListNode* l2) {
+        ListNode* dummy = new ListNode(0);
+        ListNode* curr = dummy;
         
-        for(int i=0;i<lists.size();i++)
-        {
-            ListNode* head = lists[i];
-            while(head!=NULL)
-            {
-                pq.push(head->val);
-                head = head->next;
+        while (l1 && l2) {
+            if (l1->val < l2->val) {
+                curr->next = l1;
+                l1 = l1->next;
+            } else {
+                curr->next = l2;
+                l2 = l2->next;
             }
+            curr = curr->next;
         }
-        ListNode* start = NULL;
-        ListNode* end = NULL;
-        while(!pq.empty()) {
-            if(start==NULL)
-            {
-                start = new ListNode(pq.top());
-                end = start;
-                pq.pop();
-            }
-            else{
-                end->next = new ListNode(pq.top());
-                pq.pop();
-                end = end->next;
-            }
-        }
-            return start;
+        
+        curr->next = l1 ? l1 : l2;
+        
+        return dummy->next;
     }
 };
