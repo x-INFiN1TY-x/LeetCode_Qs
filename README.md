@@ -105,6 +105,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
@@ -163,6 +164,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
@@ -287,4 +289,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
