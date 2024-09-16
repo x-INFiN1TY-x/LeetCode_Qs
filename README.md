@@ -16,6 +16,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
+| [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
@@ -167,6 +168,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
@@ -235,6 +237,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Strongly Connected Component
 |  |
