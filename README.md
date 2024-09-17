@@ -89,6 +89,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -101,6 +102,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Math
 |  |
@@ -122,6 +124,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 ## Matrix
 |  |
@@ -141,6 +144,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0908-middle-of-the-linked-list) |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -296,4 +300,12 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
+## Design
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 <!---LeetCode Topics End-->
