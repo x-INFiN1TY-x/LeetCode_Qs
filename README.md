@@ -80,6 +80,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
@@ -97,6 +98,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -173,6 +175,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
