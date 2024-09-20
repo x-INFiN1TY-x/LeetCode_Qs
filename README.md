@@ -79,6 +79,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
@@ -159,6 +160,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0206-reverse-linked-list) |
 ## Sliding Window
@@ -170,6 +172,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
