@@ -45,6 +45,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -214,12 +215,14 @@ Linked Repo for LeetCode - Automated Updation
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -227,6 +230,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Brainteaser
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Strongly Connected Component
 |  |
 | ------- |
