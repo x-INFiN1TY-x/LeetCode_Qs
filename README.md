@@ -30,6 +30,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1720-crawler-log-folder](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1720-crawler-log-folder) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
@@ -46,6 +47,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -68,6 +70,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -126,6 +129,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
