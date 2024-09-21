@@ -32,6 +32,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -49,6 +50,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
@@ -179,6 +181,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
 | ------- |
