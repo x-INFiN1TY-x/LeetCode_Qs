@@ -94,6 +94,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+| [2373-apply-discount-to-prices](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2373-apply-discount-to-prices) |
 | [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
