@@ -99,6 +99,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2373-apply-discount-to-prices](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2373-apply-discount-to-prices) |
 | [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
@@ -200,6 +201,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 ## Combinatorics
 |  |
 | ------- |
@@ -332,4 +334,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
+## Prefix Sum
+|  |
+| ------- |
+| [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 <!---LeetCode Topics End-->
