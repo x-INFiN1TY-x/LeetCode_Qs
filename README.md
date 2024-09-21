@@ -19,6 +19,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0485-max-consecutive-ones) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
+| [0974-reorder-data-in-log-files](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0974-reorder-data-in-log-files) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
@@ -65,6 +66,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
+| [0974-reorder-data-in-log-files](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0974-reorder-data-in-log-files) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -92,6 +94,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0151-reverse-words-in-a-string) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
+| [0974-reorder-data-in-log-files](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1250-longest-common-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
