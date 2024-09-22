@@ -206,6 +206,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
@@ -245,6 +246,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
@@ -258,6 +260,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
@@ -270,6 +273,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
