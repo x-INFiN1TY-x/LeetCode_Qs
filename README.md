@@ -126,6 +126,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
+| [1585-the-kth-factor-of-n](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -316,6 +317,7 @@ Linked Repo for LeetCode - Automated Updation
 ## Number Theory
 |  |
 | ------- |
+| [1585-the-kth-factor-of-n](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1585-the-kth-factor-of-n) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Biconnected Component
 |  |
