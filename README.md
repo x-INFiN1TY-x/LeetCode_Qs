@@ -51,6 +51,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2487-optimal-partition-of-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
@@ -105,6 +106,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2373-apply-discount-to-prices](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2373-apply-discount-to-prices) |
 | [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
+| [2487-optimal-partition-of-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +140,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2487-optimal-partition-of-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
