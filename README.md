@@ -10,6 +10,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0162-find-peak-element) |
@@ -43,6 +44,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0003-longest-substring-without-repeating-characters](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
@@ -58,6 +60,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
@@ -236,6 +239,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -244,6 +248,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
