@@ -106,6 +106,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2373-apply-discount-to-prices](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2373-apply-discount-to-prices) |
 | [2389-design-a-text-editor](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2389-design-a-text-editor) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2487-optimal-partition-of-string) |
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -140,6 +141,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2032-largest-odd-number-in-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2032-largest-odd-number-in-string) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2487-optimal-partition-of-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
@@ -209,6 +211,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Combinatorics
 |  |
 | ------- |
@@ -334,6 +337,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Design
 |  |
 | ------- |
