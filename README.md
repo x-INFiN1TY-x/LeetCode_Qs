@@ -168,6 +168,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0061-rotate-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0206-reverse-linked-list) |
@@ -240,6 +241,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -249,6 +251,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -257,6 +260,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -285,6 +289,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
