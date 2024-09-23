@@ -12,6 +12,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0162-find-peak-element) |
@@ -162,6 +163,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0240-search-a-2d-matrix-ii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -281,6 +283,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1207-delete-nodes-and-return-forest) |
 | [1300-critical-connections-in-a-network](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1300-critical-connections-in-a-network) |
@@ -311,6 +314,7 @@ Linked Repo for LeetCode - Automated Updation
 | ------- |
 | [0101-symmetric-tree](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0101-symmetric-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -385,4 +389,8 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
