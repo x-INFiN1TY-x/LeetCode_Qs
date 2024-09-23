@@ -99,6 +99,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0151-reverse-words-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0516-longest-palindromic-subsequence) |
 | [0726-number-of-atoms](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0726-number-of-atoms) |
 | [0974-reorder-data-in-log-files](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0974-reorder-data-in-log-files) |
 | [1078-remove-outermost-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1078-remove-outermost-parentheses) |
@@ -214,6 +215,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0152-maximum-product-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0516-longest-palindromic-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0747-min-cost-climbing-stairs) |
 | [1025-minimum-cost-for-tickets](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1025-minimum-cost-for-tickets) |
 | [1086-divisor-game](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1086-divisor-game) |
