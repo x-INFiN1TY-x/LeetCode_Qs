@@ -9,6 +9,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0037-sudoku-solver](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -63,6 +64,7 @@ Linked Repo for LeetCode - Automated Updation
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0215-kth-largest-element-in-an-array) |
@@ -209,6 +211,7 @@ Linked Repo for LeetCode - Automated Updation
 | [0005-longest-palindromic-substring](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0070-climbing-stairs) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
