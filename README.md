@@ -42,6 +42,7 @@ Linked Repo for LeetCode - Automated Updation
 | [2727-number-of-senior-citizens](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -230,6 +231,7 @@ Linked Repo for LeetCode - Automated Updation
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2325-number-of-ways-to-select-buildings](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2325-number-of-ways-to-select-buildings) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3686-count-beautiful-splits-in-an-array](https://github.com/x-INFiN1TY-x/LeetCode_Qs/tree/master/3686-count-beautiful-splits-in-an-array) |
 ## Combinatorics
 |  |
 | ------- |
